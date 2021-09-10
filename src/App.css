@@ -54,6 +54,7 @@
   display: block;
 }
 
+/*
 .task-list li .btn {
   width: 80px;
   padding: .5em 1em .4em;
@@ -61,13 +62,14 @@
   font-size: 13px;
   z-index: 10;
 }
+*/
 
 .task-list li .is-cancel {
   width: 96px;
   background-color: #999;
 }
 
-
+/*
 .task-list li .input {
   display: block;
   width: 100%;
@@ -82,19 +84,25 @@
 .task-list li .input:focus {
   background: #f9f9f0;
 }
+*/
 
+/*
 .input-form {
   margin-bottom: 40px;
   background: #f9f3ee;
   padding: 40px 0;
   border-bottom: 1px solid #d7d2cd;
 }
+*/
 
+/*
 .input-form .inner {
   display: flex;
   position: relative;
 }
+*/
 
+/*
 .input-form .input {
   width: 80%;
   font-size: 15px;
@@ -104,14 +112,19 @@
   border-radius: 7px;
   margin-right: 10px;
 }
+*/
 
+/*
 .input-form .input:focus {
   background: #f9f9f0;
 }
+*/
 
+/*
 .input-form .btn {
   width: 20%;
 }
+*/
 
 .input-form .input.error {
   background-color: #ffd4dd;
@@ -129,6 +142,7 @@
   padding: 2px 5px;
 }
 
+/*
 .btn {
   font-size: 15px;
   cursor: pointer;
@@ -148,21 +162,26 @@
   border-bottom: none;
   margin-bottom: 4px;
 }
+*/
 
+/*
 .btn.is-delete {
   background-color: #d86681;
   border-bottom-color: #956270;
 }
+*/
 
 .checkbox-input {
   display: none;
 }
 
+/*
 .checkbox-label {
   position: relative;
   margin-right: 30px;
   top: -10px;
 }
+*/
 
 .checkbox-label::before {
   content: "";
